@@ -17,3 +17,9 @@ Each day will be in separate directory with 3 files:
 - part1.py - file with solution to first part of the task
 - part2.py - file with solution to second part of the task
 
+## Challanges
+| Day | Challange                                                               | Stars         |
+|-----|-------------------------------------------------------------------------|---------------|
+| 1   | [Calorie Counting](https://adventofcode.com/2022/day/1)         :santa: | :star: :star: |
+| 2   | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)      :santa: | :star: :star: |
+| 3   | [Rucksack Reorganization](https://adventofcode.com/2022/day/3)  :santa: | :star: :star: |
