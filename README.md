@@ -23,3 +23,4 @@ Each day will be in separate directory with 3 files:
 | 1   | [Calorie Counting](https://adventofcode.com/2022/day/1)         :santa: | :star: :star: |
 | 2   | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)      :santa: | :star: :star: |
 | 3   | [Rucksack Reorganization](https://adventofcode.com/2022/day/3)  :santa: | :star: :star: |
+| 4   | [Camp Cleanup](https://adventofcode.com/2022/day/4)             :santa: | :star: :star: |
